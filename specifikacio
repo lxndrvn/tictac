@@ -1,0 +1,29 @@
+Tic-Tac-Toe is a board-game. 
+First, the game is welcoming you.
+Second, you can choose single (playing against the computer) or multiplayer mode (play with your friend).
+Press 1 is the single mode, press 2 is the multiplayer. 
+At this part of the game, if you would like to exit from the game, 
+just press any key (now there is a bug here, we are planning to fix.)
+
+Gameplay:
+
+SINGLE MODE
+In the single mode at this moment your character is always be the "X" and the computer's is the "O".
+The board is divided into 3x3 squares can be occupied by one icon. 
+You have to press a spot with numbers on the keyboard (1-9). 
+The first turn is yours, after the computer selects a spot randomly.
+If three icons of same type appear in a row either vertically or horizontally or diagonally, 
+the user of that icon will be declared the winner by the program.
+If all the squares of the board are filled and no user is the winner then the game is stop by the system (now there is a bug here,because nothing happened when the board is full, we working on it). 
+
+MULTIPLAYER MODE
+
+The rules are the same like in the single mode. The first player is the X, the second player is the O.
+After player X select a spot, player O is the next, and so on...
+
+Improvements: 
+step 1) choosing a character
+step 2) X or O start the game (random)
+step 4) improve the tie ended 
+step 5) is add sound
+step 6) better design (i.e. using colours)
